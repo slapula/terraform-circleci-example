@@ -15,3 +15,4 @@ terragrunt {
 }
 
 aws_region    = "us-west-2"
+asg_instance_ami  = "ami-1e299d7e"
